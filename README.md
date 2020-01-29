@@ -23,8 +23,10 @@ https://napalm.readthedocs.io/en/latest/
 
 ### Additional Learning:
 
-https://developer.cisco.com/startnow/
-https://developer.cisco.com/video/net-prog-basics/
+https://developer.cisco.com/startnow/ 
+
+https://developer.cisco.com/video/net-prog-basics/ 
+
 https://developer.cisco.com/netdevops/live/
 
 ### Recommeded Books:
