@@ -2,7 +2,6 @@
 
 ## Python scripts for network automation lab
 
- 
 * Clone the git repo
   * git clone https://github.com/jagadnag/cl_python_2020.git
 * Navigate to the directory
@@ -14,7 +13,11 @@
   * pip list
 * Run the scripts
   * python <script_name>.py 
-  
+
+### How to setup a python programming enviroment:
+
+https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-python-3
+
 ### Documentaiton links:
 
 https://github.com/ktbyers/netmiko/blob/develop/README.md 
