@@ -15,8 +15,12 @@
 * Run the scripts
   * python <script_name>.py 
   
+### Documentaiton links
 
-Additional Learning and Reference materials:
+https://github.com/ktbyers/netmiko/blob/develop/README.md
+https://napalm.readthedocs.io/en/latest/
+
+### Additional Learning and Reference materials:
 
 https://developer.cisco.com/startnow/
 https://developer.cisco.com/video/net-prog-basics/
