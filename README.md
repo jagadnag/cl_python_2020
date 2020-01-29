@@ -15,18 +15,19 @@
 * Run the scripts
   * python <script_name>.py 
   
-### Documentaiton links
+### Documentaiton links:
 
 https://github.com/ktbyers/netmiko/blob/develop/README.md
 https://napalm.readthedocs.io/en/latest/
 
-### Additional Learning and Reference materials:
+### Additional Learning:
 
 https://developer.cisco.com/startnow/
 https://developer.cisco.com/video/net-prog-basics/
 https://developer.cisco.com/netdevops/live/
 
-Books:
+### Recommeded Books:
+
 https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1491931256
 
 https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
