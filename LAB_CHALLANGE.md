@@ -1,5 +1,9 @@
 ## User Lab Tasks
 
+In the following lab chanllenge tasks, you are requested to create few python scripts to get yourself familar with wirting and executing the scripts.
+
+In the VS Code, Click on File menu and Select 'New File' option. An 'Untitled' page will open on editor window to write new scripts.
+
 ### Task 1: Create a simple Netmiko script
 
 #### Import the Netmiko module
