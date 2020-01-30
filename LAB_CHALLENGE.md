@@ -59,7 +59,7 @@ output = net_connect.send_command('xxxxxx')
 print(xxxxx)
 ```
 #### Now save the script with 'xxxxxx'.py
-Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a different name. These are module names that will be inside the scripts. If the script name and module name are the same, the scripts will not execute correctly.
+Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a different name. These are module names that will be used inside the scripts. If the script name and module name are the same, then the script will not execute correctly.
 
 #### Run the script from the VS Code terminal window
 ```
