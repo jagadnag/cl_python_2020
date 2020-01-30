@@ -76,7 +76,7 @@ Open a new file and type in the python commands
 #### Call the netmiko .send_config_set() function that will configure the device
 
 ```py
-output = net_connect.send_config_set('xxxxxxx')
+output = net_connect.send_config_set('xxxxxxx')  # provide a config change command
 ```
 #### Print the output
 ```py
