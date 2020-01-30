@@ -1,6 +1,6 @@
 ## User Lab Tasks
 
-In the following lab chanllenge tasks, you are requested to create few python scripts to get yourself familar with wirting and executing the scripts.
+In the following lab challenge tasks, you are requested to create few python scripts to get yourself familiar with writing and executing the scripts.
 
 In the VS Code, Click on File menu and Select 'New File' option. An 'Untitled' page will open on editor window to write new scripts.
 
@@ -19,7 +19,7 @@ cisco_device = {
     'device_type': 'xxxxxx', # provide the device type
     'host': 'x.x.x.x',       # fill the ip address of the device
     'username': 'xxxxx',     # provide the username
-    'password': 'xxxxx',     # prodide the password
+    'password': 'xxxxx',     # provide the password
 }
 ```
 
@@ -39,17 +39,17 @@ output = net_connect.send_command('xxxxxx')
 print(xxxxx)
 ```
 #### Now save the script with 'xxxxxx'.py
-Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a diffrent name. These are module names that will be used to write the script. If the script name and module name are the same, the scripts will not excute correctly.
+Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a different name. These are module names that will be inside the scripts. If the script name and module name are the same, the scripts will not execute correctly.
 
 #### Run the script from the VS Code terminal window
 ```
 python xxxxx.py
 ```
-Verfiy the printed output
+Verifiy the printed output
 
 ### Task 2: Write a python script to make a config change
 
-#### Copy paste the previosuly written script and rename it
+#### Copy paste the previously written script and rename it
 
 #### Call the netmiko .send_config_set() function that will configure the device
 
@@ -61,10 +61,9 @@ output = net_connect.send_config_set('xxxxxxx')
 print(xxxxx)
 ```
 #### Now save the script with 'xxxxxx'.py
-Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a diffrent name. These are module names that will be used to write the script. If the script name and module name are the same, the scripts will not excute correctly.
 
 #### Run the script from the VS Code terminal window
 ```
 python xxxxx.py
 ```
-Verfiy the printed output
+Verify the printed output
