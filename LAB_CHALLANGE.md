@@ -1,5 +1,7 @@
 ## User Lab Tasks
 
+Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a diffrent name. These are module names that will be used to write the script. If the script name and module name are the same, the scripts will not excute correctly.
+
 ### Task 1: Create a simple Netmiko script
 
 #### Import the Netmiko module
@@ -37,9 +39,9 @@ print(xxxxx)
 
 ### Task 2: Write a python script to make a config change
 
-#### Copy paste the previosuly written script to make a config change
+#### Copy paste the previosuly written script and rename it
 
-#### Edit the .send_command to .send_config_set
+#### Edit the .send_command() to .send_config_set()
 
 ```py
 output = net_connect.send_config_set('xxxxxxx)
