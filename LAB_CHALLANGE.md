@@ -32,5 +32,19 @@ output = net_connect.send_command('xxxxxx')
 ```
 #### Print the output
 ```py
-print(output)
+print(xxxxx)
+```
+
+### Task 2: Write a python script to make a config change
+
+#### Copy paste the previosuly written script to make a config change
+
+#### Edit the .send_command to .send_config_set
+
+```py
+output = net_connect.send_config_set('xxxxxxx)
+```
+#### Print the output
+```py
+print(xxxxx)
 ```
