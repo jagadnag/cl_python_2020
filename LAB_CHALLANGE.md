@@ -22,10 +22,10 @@ cisco_device = {
 #### Establish an SSH connection to the device by passing in the device dictionary
 
 ```py
-net_connect = ConnectHandler(**xxxxxx) # reference the dictionary connected above
+net_connect = ConnectHandler(**xxxxxx) # reference the dictionary mentioned above
 ```
 
-#### Call the netmiko function to execute a show command
+#### Call the netmiko function .send_commnd() that will to execute the show command
 
 ```py
 output = net_connect.send_command('xxxxxx')
@@ -47,10 +47,10 @@ Verfiy the printed output
 
 #### Copy paste the previosuly written script and rename it
 
-#### Edit the .send_command() to .send_config_set()
+#### Call the netmiko .send_config_set() function that will configure the device
 
 ```py
-output = net_connect.send_config_set('xxxxxxx)
+output = net_connect.send_config_set('xxxxxxx')
 ```
 #### Print the output
 ```py
