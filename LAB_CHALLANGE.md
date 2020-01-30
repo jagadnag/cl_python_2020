@@ -1,7 +1,5 @@
 ## User Lab Tasks
 
-
-
 ### Task 1: Create a simple Netmiko script
 
 #### Import the Netmiko module
@@ -40,9 +38,9 @@ print(xxxxx)
 Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a diffrent name. These are module names that will be used to write the script. If the script name and module name are the same, the scripts will not excute correctly.
 
 #### Run the script from the VS Code terminal window
-
+```
 python xxxxx.py
-
+```
 Verfiy the printed output
 
 ### Task 2: Write a python script to make a config change
@@ -62,7 +60,7 @@ print(xxxxx)
 Note: Don't save the scripts with the filename 'netmiko.py' or 'napalm.py', Use a diffrent name. These are module names that will be used to write the script. If the script name and module name are the same, the scripts will not excute correctly.
 
 #### Run the script from the VS Code terminal window
-
+```
 python xxxxx.py
-
+```
 Verfiy the printed output
