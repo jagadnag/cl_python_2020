@@ -36,7 +36,7 @@ from xxxxx import xxxxxx
 
 ```py
 cisco_device = {
-    'device_type': 'xxxxxx', # provide the device type
+    'device_type': 'xxxxxx', # provide the device type 'cisco_ios' or 'cisco_xr' or 'cisco_nxos'
     'host': 'x.x.x.x',       # fill the ip address of the device
     'username': 'xxxxx',     # provide the username
     'password': 'xxxxx',     # provide the password
