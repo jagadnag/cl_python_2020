@@ -4,7 +4,19 @@ In the following lab challenge tasks, you are requested to create few python scr
 
 In the VS Code, Click on File menu and Select 'New File' option. An 'Untitled' page will open on editor window to write new scripts.
 
-### Task 1: Create a simple Netmiko script
+### Task 1: Create hello.py script
+
+Open a new file and type in 
+
+```py
+print('hello world')
+```
+
+Save it as hello.py and run the script from the VS code terminal window.
+
+Note: Ensure you are in the right folder path.
+
+### Task 2: Create a simple Netmiko script
 
 #### Import the Netmiko module
 
@@ -47,7 +59,7 @@ python xxxxx.py
 ```
 Verifiy the printed output
 
-### Task 2: Write a python script to make a config change
+### Task 3: Write a python script to make a config change
 
 #### Copy paste the previously written script and rename it
 
