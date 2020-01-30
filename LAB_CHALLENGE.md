@@ -12,11 +12,19 @@ Open a new file and type in
 print('hello world')
 ```
 
-Save it as hello.py and run the script from the VS code terminal window.
+Save it as hello.py
+
+#### Run the script from the VS Code terminal window
+```
+python xxxxx.py
+```
+Verifiy the printed output
 
 Note: Ensure you are in the right folder path.
 
 ### Task 2: Create a simple Netmiko script
+
+Open a new file and type in the python commands
 
 #### Import the Netmiko module
 
@@ -60,6 +68,8 @@ python xxxxx.py
 Verifiy the printed output
 
 ### Task 3: Write a python script to make a config change
+
+Open a new file and type in the python commands
 
 #### Copy paste the previously written script and rename it
 
